@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/blast.mp3</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/bomb.png</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/fish.png</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/help.spritefont</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/helpFont.spritefont</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/mainFont.spritefont</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/mario.mp3</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/mine.png</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/octopus.png</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/shark.png</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/sub.png</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/timerFont.spritefont</File>
+    <File>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/water.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

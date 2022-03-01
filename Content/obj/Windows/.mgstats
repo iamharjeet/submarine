@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/blast.mp3","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/blast.xnb","SoundEffectProcessor","SoundEffectContent",10368,57799,0.3938961
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/bomb.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/bomb.xnb","TextureProcessor","Texture2DContent",17680,55781,0.6083442
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/fish.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/fish.xnb","TextureProcessor","Texture2DContent",8478,53893,0.8695769
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/help.spritefont","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/help.xnb","FontDescriptionProcessor","SpriteFontContent",2065,37905,1.44195
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/helpFont.spritefont","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/helpFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,37905,1.627104
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/mainFont.spritefont","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/mainFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,136209,1.642976
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/mario.mp3","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/mario.xnb","SongProcessor","SongContent",4322880,123,4.978931
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/mine.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/mine.xnb","TextureProcessor","Texture2DContent",7307,55781,0.059039
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/octopus.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/octopus.xnb","TextureProcessor","Texture2DContent",31184,55781,0.0550343
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/shark.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/shark.xnb","TextureProcessor","Texture2DContent",11939,55781,0.0820533
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/sub.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/sub.xnb","TextureProcessor","Texture2DContent",1787,36885,0.6127504
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/timerFont.spritefont","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/timerFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70673,0.0440297
+"C:/Users/HARJEET/source/repos/Game1/Game1/Content/water.png","C:/Users/HARJEET/source/repos/Game1/Game1/Content/bin/Windows/water.xnb","TextureProcessor","Texture2DContent",602062,8294485,1.967004

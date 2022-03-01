@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/mainFont.spritefont</SourceFile>
+  <SourceTime>2019-12-01T22:56:56.242365+05:30</SourceTime>
+  <DestFile>C:/Users/HARJEET/source/repos/AAnmolFinalProject/Submarine/Content/bin/Windows/Content/mainFont.xnb</DestFile>
+  <DestTime>2019-12-10T22:39:15.2388828+05:30</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T22:05:54+05:30</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T22:05:54+05:30</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
